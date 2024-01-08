@@ -100,11 +100,11 @@
   background: #F00;
 }
 
-.txt-color{
+.txt-color {
   color: red;
 }
 
-.offer{
+.offer {
   padding-top: 50px;
   padding-bottom: 50px;
   position: relative;
@@ -116,12 +116,120 @@
   margin-right: 300px;
 }
 
-.dolor{
+.dolor {
   line-height: 300px;
 }
 
-.line{
+.line {
   margin-top: -10px;
 }
 
+.circle-img {
+  position: relative;
+  left: 41%;
+  padding-top: 200px;
+  position: relative;
+}
 
+.offer-txt {
+  position: absolute;
+  top: 180px;
+  left: -477px;
+  font-family: inter;
+  font-size: 25px;
+  font-weight: 800px;
+  padding-top: 65px;
+  color: #F00;
+}
+
+#coming {
+  font-size: 55px;
+  font-weight: 800px;
+  margin-top: -10px;
+  color: black;
+}
+
+.amet {
+  margin-top: -30px;
+  color: rgba(7, 2, 17, 0.60);
+  font-family: Inter;
+}
+
+.year {
+  position: relative;
+  left: 100%;
+  padding-left: 470px;
+  margin-top: -250px;
+}
+
+.sit-amet {
+  position: relative;
+  left: 183%;
+  color: rgba(7, 2, 17, 0.60);
+  font-family: Inter;
+  margin-top: -15px;
+}
+
+.what {
+  position: relative;
+  left: 850px;
+  padding-top: 80px;
+}
+
+.nopng {
+  position: relative;
+  left: 1035px;
+}
+
+.noway {
+  position: relative;
+  left: 850px;
+  padding-top: 150px;
+  color: #070211;
+  font-family: Inter;
+  font-weight: 80px;
+}
+
+#sale{
+  position: relative;
+  left: 753px;
+  padding-top: 0px;
+  color: #070211;
+  font-family: Inter;
+  font-size: 50px;
+  font-weight: 80px;
+}
+
+.lorem{
+  position: relative;
+  left: 753px;
+  text-align: center;
+  margin-left: -78%;
+}
+
+.hdiscound{
+position: relative;
+left: 65%;
+padding-top: 30px;
+}
+
+#middle{
+  position: absolute;
+  position: relative;
+  right: 30%;
+}
+#rec{
+  position: absolute;
+  position: relative;
+  right: 47%;
+  margin-top: -5px;
+}
+
+#boxx{
+  position: absolute;
+  position: relative;
+  right: 48%;
+  margin-top: -700px;
+  
+  
+}
